@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Stamina Cheat - Автоматический помощник для тренажёра Stamina
-Автор: сгенерировано по запросу
+Автор: okyrihuw, с частичным использованием claude
 """
 
 import tkinter as tk
